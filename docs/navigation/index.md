@@ -13,11 +13,14 @@ as does the explicit home link in the various sidebars.
 This home page gives a descriptive overview of entry points.
 
 Below a navigation overview with the names of the pages as they appear in the address bar of your browser.
-The page _**sheet**_ is not in the descriptive overview,
+The page _**sheet**_ is not in on the home page,
 it has no controls to manipulate diagrams and is not an entry point.
+The page **tileGallery** has not yet found its place anywhere.
 
-The gallery pages (depicted in the cloud) are prefixed with _d-b.github.io/_.
+The pages depicted in the cloud are prefixed with _d-b.github.io/_.
 The other pages are prefixed with _d-b.github.io/GroundForge/_.
+
+<style>svg {font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif }</style>
 
 ![navigation.svg](navigation.svg)
 
@@ -26,16 +29,19 @@ Arrow legend
 
 * black: links
 * blue: download/upload alias import/export
-* dashed: recovery for third party sites, older pages may link to an obsolete page.
+* dashed: recovery for third party sites, their pages may link to an obsolete page.
   See also [404](/GroundForge/404)
 
 1. Use the pattern below to experiment with _stitches and threads_.
 2. Use the _thread diagram as pair diagram_.
-3. Back to original _pair diagram_ (this link may return to the snow mixer)
-4. Back to the _pattern definition_
+3. Back to original _pair diagram_ (this link may return to the snow mixer).
+4. Back to the _pattern definition_.
 5. Diagram captions.
-6. SVG link per family of patterns
+6. SVG link per family of patterns.
 7. Diagram titles should go to the stitches page but still go to the tiles page.
+8. _Tweak footsides_
+9. _6 pair snow_
+10. The links appear in diagram captions after clicking a letter in the gallery.
 
 Help pages, galleries and mix4snow
 ---------------------------------
