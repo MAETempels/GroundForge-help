@@ -4,19 +4,19 @@ title: Navigation
 ---
 
 * [Arrow legend](#arrow-legend)
-* [Help pages, galleries and mix4snow](#help-pages-galleries-and-mix4snow)
+* [Help pages and galleries](#help-pages-and-galleries)
 * [Scrolling, small devices and sidebar](#scrolling-small-devices-and-sidebar)
 * [Known third party pages/sites](#known-third-party-pagessites)
 
 The banner of each page links to the [home page](https://d-bl.github.io/),
 as does the explicit home link in the various sidebars.
 This home page gives a descriptive overview of entry points.
+The page **[tileGallery](/GroundForge/tileGallery)** has not yet found its place.
+The page _**sheet**_ is not in on the home page because it is not an entry point.
 
 Below a navigation overview with the names of the pages as they appear in the address bar of your browser.
-The page _**sheet**_ is not in on the home page,
-it has no controls to manipulate diagrams and is not an entry point.
-The page **tileGallery** has not yet found its place anywhere.
-
+The snow mixer (_**mix4snow**_) has a [navigation](/GroundForge-help/snow-mix/#footside-detour-navigation)
+section in its own tutorial.
 The pages depicted in the cloud are prefixed with _d-b.github.io/_.
 The other pages are prefixed with _d-b.github.io/GroundForge/_.
 
@@ -43,19 +43,16 @@ Arrow legend
 9. _6 pair snow_
 10. The links appear in diagram captions after clicking a letter in the gallery.
 
-Help pages, galleries and mix4snow
----------------------------------
+Help pages and galleries
+------------------------
 
 The pages _**pattern**_, _**stitches**_ and _**droste**_ have a button that can hide/show a help menu.
 When the menu is hidden, the links 1-4 are just below this button.
 
 The other pages have a single link or a short story linking to tutorials and/or help pages.
 Both types of help pages would clutter the overview.
-Connecting the snow mixer (_**mix4snow**_) would also clutter the overview, it has a
-[navigation](/GroundForge-help/snow-mix/#footside-detour-navigation)
-section in its own tutorial.
 
-Help pages and galleries have a sidebar with links to other help pages respectively pages in the same gallery.
+Help pages and galleries (depicted in the cloud) have a sidebar with links to other help pages respectively pages in the same gallery.
 They may also have a table of contents at the top of the page.
 
 Scrolling, small devices and sidebar

@@ -466,17 +466,6 @@
          y="82.486465">6</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;fill:#000000;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-       x="146.30817"
-       y="177.25656"
-       id="text12251"><tspan
-         sodipodi:role="line"
-         id="tspan12249"
-         style="stroke-width:20"
-         x="146.30817"
-         y="177.25656">mix4snow</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:5.64444px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
        x="22.750393"
        y="61.092716"
@@ -518,41 +507,5 @@
          style="stroke-width:20"
          x="31.019676"
          y="70.844826">10</tspan></text>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 153.66613,171.36893 92.794346,135.40936"
-       id="path11839"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 158.82804,171.27356 8.07375,-35.55185"
-       id="path12016"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;fill:#000000;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-       x="135.79463"
-       y="170.32819"
-       id="text12320"><tspan
-         sodipodi:role="line"
-         id="tspan12318"
-         style="stroke-width:20"
-         x="135.79463"
-         y="170.32819">8</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;fill:#000000;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-       x="163.31131"
-       y="165.03651"
-       id="text12324"><tspan
-         sodipodi:role="line"
-         id="tspan12322"
-         style="stroke-width:20"
-         x="163.31131"
-         y="165.03651">9</tspan></text>
   </g>
 </svg>
