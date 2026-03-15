@@ -11,14 +11,13 @@ title: Navigation
 The banner of each page links to the [home page](https://d-bl.github.io/),
 as does the explicit home link in the various sidebars.
 This home page gives a descriptive overview of entry points.
-The page **[tileGallery](/GroundForge/tileGallery)** has not yet found its place.
-The page _**sheet**_ is not in on the home page because it is not an entry point.
 
-Below a navigation overview with the names of the pages as they appear in the address bar of your browser.
-The snow mixer (_**mix4snow**_) has a [navigation](/GroundForge-help/snow-mix/#footside-detour-navigation)
-section in its own tutorial.
+The diagram lists page names as they appear in the address bar of your browser.
+Grey page names are not on the home page.
 The pages depicted in the cloud are prefixed with _d-b.github.io/_.
 The other pages are prefixed with _d-b.github.io/GroundForge/_.
+The snow mixer (_**mix4snow**_) has a [navigation](/GroundForge-help/snow-mix/#footside-detour-navigation)
+section in its own tutorial.
 
 <style>svg {font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif }</style>
 
